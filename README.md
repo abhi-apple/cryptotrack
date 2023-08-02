@@ -1,5 +1,5 @@
 This is an landing page demo for an Blockchain related website 
-
+#Website : https://cryptotr.netlify.app/
 
 # Crypto Price Tracker
 
@@ -111,5 +111,4 @@ For any queries or issues, you can reach out to us at [abhinayreddy0112@gmail.co
 
 ---
 
-#Website : https://cryptotr.netlify.app/
 
