@@ -111,5 +111,5 @@ For any queries or issues, you can reach out to us at [abhinayreddy0112@gmail.co
 
 ---
 
-#Website : https://blocktech.netlify.app
+#Website : https://cryptotr.netlify.app/
 
