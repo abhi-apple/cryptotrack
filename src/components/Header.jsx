@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar";
-import bgvid from "../images/blvid.mov";
+import bgvid from "../images/blvid.mp4";
 function Header() {
   return (
     <div id="main">
