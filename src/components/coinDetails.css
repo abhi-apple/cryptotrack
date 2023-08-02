@@ -1,0 +1,76 @@
+/* coinDetails.css */
+.main {
+    background-image: linear-gradient(to bottom, #667eea, #764ba2);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+  }
+  
+  .containers {
+    max-width: 700px;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .chart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+  
+  .chart-title {
+    color: #333;
+  }
+  
+  .price-container {
+    text-align: right;
+  }
+  
+  .price-change {
+    color: #28a745;
+  }
+  
+  .current-price {
+    color: #333;
+  }
+  
+  .coin-details-label {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .coin-details-value {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+
+
+  /* coinDetails.css or your custom CSS file */
+.subscription-popup {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 999;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.3s, transform 0.3s;
+  }
+  
+  .subscription-popup.show {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
