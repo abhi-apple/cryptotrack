@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cryptotrack/static/css/main.71e7c33c.css",
+    "main.js": "/cryptotrack/static/js/main.8f919f9a.js",
+    "static/js/787.6606bfd5.chunk.js": "/cryptotrack/static/js/787.6606bfd5.chunk.js",
+    "static/media/blvid.mp4": "/cryptotrack/static/media/blvid.9163bc99e6971d45ec33.mp4",
+    "static/media/1.jpeg": "/cryptotrack/static/media/1.ff85a11fe909859a386b.jpeg",
+    "static/media/background.jpeg": "/cryptotrack/static/media/background.d09dc40627a2ba93a874.jpeg",
+    "static/media/feature_1.png": "/cryptotrack/static/media/feature_1.f5e11fc49308566e6eec.png",
+    "index.html": "/cryptotrack/index.html",
+    "main.71e7c33c.css.map": "/cryptotrack/static/css/main.71e7c33c.css.map",
+    "main.8f919f9a.js.map": "/cryptotrack/static/js/main.8f919f9a.js.map",
+    "787.6606bfd5.chunk.js.map": "/cryptotrack/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71e7c33c.css",
+    "static/js/main.8f919f9a.js"
+  ]
+}
