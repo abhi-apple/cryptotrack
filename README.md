@@ -1,4 +1,5 @@
-This is an landing page demo for an Blockchain related website 
+This is an landing page demo for an Blockchain related website. 
+
 #Website : https://cryptotr.netlify.app/
 
 # Crypto Price Tracker
